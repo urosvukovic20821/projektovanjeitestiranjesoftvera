@@ -1,0 +1,6 @@
+@ExampleCleanArchWebAPI_HostAddress = http://localhost:5036
+
+GET {{ExampleCleanArchWebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
